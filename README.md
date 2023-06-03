@@ -1,4 +1,4 @@
-# Ex-07-Data-Visualization-
+# Ex-08-Data-Visualization-
 
 ## AIM
 To Perform Data Visualization on the given dataset and save the data to a file. 
@@ -109,3 +109,58 @@ plt.show()
 ```
 
 # OUPUT
+
+![Screenshot (470)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/f6f0f436-dbbc-4a53-a21c-b2873e3adc78)
+
+
+![Screenshot (471)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/e5b43b6c-e5ed-4f5d-8c58-9b7dde716af5)
+
+
+![Screenshot (472)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/b8840c4b-b142-4a90-9f9b-ace301e23719)
+
+
+![Screenshot (473)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/1f084e47-a586-41d2-914b-4227175a20ee)
+
+
+![Screenshot (474)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/67ce4c00-57f2-41be-ac09-35bb04e43d43)
+
+
+![Screenshot (475)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/456537c2-5794-4042-884a-567b3d114eaf)
+
+
+![Screenshot (476)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/c8786d01-5ad7-41a8-920f-67bcc20cdc66)
+
+
+![kk](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/176bc604-ec8a-4e12-9532-e06e2e90050f)
+
+
+![Screenshot (477)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/658aa042-deae-4d4c-a799-21a27fe0e064)
+
+
+![Screenshot (478)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/bf053212-a20f-45be-9530-2283d071e9d0)
+
+
+![Screenshot (479)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/74e9d902-2353-410c-bc99-02bb57090c00)
+
+
+![Screenshot (480)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/8de33981-4819-4cfc-b389-c36bbf810e45)
+
+
+![Screenshot (483)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/26c5b804-1f34-4cd9-ad01-532193cc55ef)
+
+
+![Screenshot (484)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/7893617d-6f6d-4498-8090-f9d8b9e91488)
+
+
+![Screenshot (485)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/79f9d2c2-9423-4423-80b8-21b8ae29c8d9)
+
+
+![Screenshot (486)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/76ced430-e1d5-4e2a-b0c9-1a6272a67a18)
+
+
+![Screenshot (487)](https://github.com/VIJAYKUMAR22007124/Ex-08-Data-Visualization-/assets/119657657/7e716fc9-2707-4a65-ab28-e1ec2df2b10f)
+
+
+# RESULT:
+
+Performed Data Visualization on the given dataset and saveed the data to a file.
